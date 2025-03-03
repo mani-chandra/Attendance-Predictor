@@ -56,4 +56,11 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown("[👨‍💻 Connect with me on LinkedIn](https://www.linkedin.com/in/manichandrarao)")
+st.markdown(
+    """
+    <div style="text-align: center;">
+        👨‍💻 Developed by <b>👨‍💻 Connect with me on LinkedIn](https://www.linkedin.com/in/manichandrarao</b>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
