@@ -48,11 +48,11 @@ st.info("📚 Plan your bunks wisely!")
 
 st.markdown("---")
 st.markdown(
-    """,
+    """
     <div style="text-align: center;">
         👨‍💻 Developed by <b>Mani Chandra Rao</b>
     </div>
-    """
+    """,
     unsafe_allow_html=True
 )
 
