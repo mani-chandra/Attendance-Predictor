@@ -45,3 +45,6 @@ if st.button("Predict Attendance"):
         st.error("🔴 High Risk! Even if you attend all classes, you may fall below the required attendance.")
 
 st.info("📚 Plan your bunks wisely!")
+
+st.markdown("---")
+st.markdown("👨‍💻 Developed by **Mani Chandra Rao Voddineni**")
