@@ -52,14 +52,14 @@ st.markdown(
     <div style="text-align: center;">
         👨‍💻 Developed by <b>Mani Chandra Rao</b>
     </div>
-    """,
+    """
     unsafe_allow_html=True
 )
 
 st.markdown(
     """
     <div style="text-align: center;">
-        👨‍💻 Developed by <b>👨‍💻 Connect with me on LinkedIn](https://www.linkedin.com/in/manichandrarao</b>
+        [👨‍💻 Connect with me on LinkedIn](https://www.linkedin.com/in/manichandrarao)
     </div>
     """,
     unsafe_allow_html=True
