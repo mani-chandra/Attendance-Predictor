@@ -47,4 +47,13 @@ if st.button("Predict Attendance"):
 st.info("📚 Plan your bunks wisely!")
 
 st.markdown("---")
-st.markdown("👨‍💻 Developed by **Mani Chandra Rao Voddineni**")
+st.markdown(
+    """
+    <div style="text-align: center;">
+        👨‍💻 Developed by <b>Mani Chandra Rao</b>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
+st.markdown("[👨‍💻 Connect with me on LinkedIn](https://www.linkedin.com/in/manichandrarao)")
